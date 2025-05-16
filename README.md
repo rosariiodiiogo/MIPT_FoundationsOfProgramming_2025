@@ -1,0 +1,2 @@
+# MIPT_FoundationsOfProgramming_2025
+Франсиско Розарио Диого
